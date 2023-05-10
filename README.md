@@ -7,7 +7,9 @@ This is simple bug tracking project using jira. Here I used `ali2bd.com` website
 <H3 align="center">Ali2bd.com</H3>
 
 ![](images/jira1.PNG)
+
 ![](images/jira2.PNG)
+
 ![](images/jira3.PNG)
 
 **Description:**
@@ -30,7 +32,9 @@ This is simple bug tracking project using jira. Here I used `ali2bd.com` website
 **The developer is working and it was in progress is started.**
 
 ![](images/jira5.PNG)
+
 ![](images/jira6.PNG)
+
 ![](images/jira7.PNG)
 
 **Developer completed the work and the issue is resolved.**
