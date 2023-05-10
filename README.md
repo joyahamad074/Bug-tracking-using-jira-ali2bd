@@ -37,8 +37,6 @@ This is simple bug tracking project using jira. Here I used `ali2bd.com` website
 
 ![](images/jira7.PNG)
 
-![](images/jira7.PNG)
-
 **Developer completed the work and the issue is resolved.**
 
 
