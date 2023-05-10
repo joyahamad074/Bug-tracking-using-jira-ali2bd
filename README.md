@@ -1,7 +1,7 @@
 # Bug tracking using jira-ali2bd.com
 
 ## Description:
-This is simple bug tracking project using jira. Here I used `ali2bd.com` website for tracking a bug using jira. Here shows that how a bug we can assigned to the developer in jira and check time to time how the bug status is changed in jira and at least the bug got fixed.
+This is simple bug tracking project using jira. Here I used `ali2bd.com` website for tracking a bug using jira. Here shows that how a bug we can assigned to the developer in jira and check time to time how the bug status is changed in jira and at last how the bug got fixed.
 
 
 <H3 align="center">Ali2bd.com</H3>
