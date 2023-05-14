@@ -28,7 +28,7 @@ This is simple bug tracking project using jira. Here I used `ali2bd.com` website
 
 ![](images/otp-msg-mispell.PNG)
 
-**The work was assigned to xcoder ahmed(developer) for solving the issue.**
+**Using Jira the work was assigned to xcoder ahmed(developer) for solving the issue.**
 
 ![](images/jira4.PNG)
 
