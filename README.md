@@ -6,23 +6,19 @@ This is simple bug tracking project using jira. Here I used `ali2bd.com` website
 
 <H3 align="center">Ali2bd.com</H3>
 
-![](images/jira1.PNG)
 
-![](images/jira2.PNG)
-
-![](images/jira3.PNG)
 
 **Description:**
+
 1. Navigate to the url https://ali2bd.com/ 
 
-2. Click on sign up/sign in options
-
-3. Fill up the Mobile no./Email field with valid data
-
-4. Click on continue
-
+2. Click on My Account option
+![](images/jira1.PNG)
+2. Click on sign up/sign in option
+![](images/jira2.PNG)
+3. Fill up the Mobile no./Email field with valid data.Then click on continue button
+![](images/jira3.PNG)
 5. Now you should received a verification code to your email which words is misspelled.
-
 ![](images/otp-msg-mispell.PNG)
 
 **The work was assigned to xcoder ahmed(developer) for solving the issue.**
